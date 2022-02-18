@@ -1,5 +1,7 @@
 # Saty_Trend - Trend label based on an EMA Cloud
 # By Saty (2021)
+# Author is not responsible for your trading using this script.
+# Data provided in this script is not financial advice.
 #
 # Green = Bullish Trend, above cloud
 # Red = Bearish Trend, below cloud
