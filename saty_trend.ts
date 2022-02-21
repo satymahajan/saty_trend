@@ -30,7 +30,10 @@ def price = close(period = period);
 def bullish = price >= MovAvgExponential(price, cloudEMALow) and price >= MovAvgExponential(price, cloudEMAHigh);
 def bearish = price <= MovAvgExponential(price, cloudEMALow) and price <= MovAvgExponential(price, cloudEMAHigh);
 
-AddLabel(yes, (if period == AggregationPeriod.MONTH then "M" 
+AddLabel(yes, (
+if period == AggregationPeriod.YEAR then "Y"
+else
+if period == AggregationPeriod.MONTH then "M" 
 else
 if period == AggregationPeriod.WEEK then "W" 
 else
