@@ -1,5 +1,5 @@
 # Saty_Trend - Trend label based on an EMA Cloud
-# By Saty (2021)
+# Copyright (C) 2021 - 2022 Saty Mahajan
 # Author is not responsible for your trading using this script.
 # Data provided in this script is not financial advice.
 #
