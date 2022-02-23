@@ -8,13 +8,13 @@
 # YELLOW = Chop / No Clear Trend, within cloud
 #
 # How to use:
-# Add one instance of SM_Trend for each
+# Add one instance of Saty_Trend for each
 # Timeframe and/or EMA cloud you would like.
-# Note you can only add SM_Trend for timeframes
+# Note you can only add Saty_Trend for timeframes
 # at or above then current timeframe.
 #
 # Example:
-# Add 1 instance of SM_Trend(10m, 34, 50) 
+# Add 1 instance of Saty_Trend(10m, 34, 50) 
 # Shows you if price action is bullish
 # or bearish, based on the trend cloud,
 # on a 10m timeframe.
